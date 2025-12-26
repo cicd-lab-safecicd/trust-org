@@ -1,1 +1,12 @@
+# Protection trust-store and workflow's
+.github/trust/**       @EmilyKinn @EmilyKinn2
+.github/workflows/**   @EmilyKinn @EmilyKinn2
+.github/trust/*        @EmilyKinn @EmilyKinn2
+
+# deploy / infra
+scripts/deploy/**      @EmilyKinn @EmilyKinn2
+infra/**               @EmilyKinn @EmilyKinn2
+
+# General rules for .github catalog
+/.github/**            @EmilyKinn @EmilyKinn2
 
