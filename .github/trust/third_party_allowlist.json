@@ -1,0 +1,33 @@
+{
+  "domains": [
+    "gitlab.com",
+    "registry.gitlab.com",
+    "docs.gitlab.com",
+
+    "ghcr.io",
+    "gcr.io",
+    "index.docker.io",
+    "registry-1.docker.io",
+
+    "github.com",
+    "api.github.com",
+    "objects.githubusercontent.com",
+    "raw.githubusercontent.com",
+    "githubusercontent.com",
+    "actions.githubusercontent.com",
+    "token.actions.githubusercontent.com",
+
+    "dl-cdn.alpinelinux.org",
+    "registry.semgrep.dev",
+    "api.osv.dev",
+
+    "get.anchore.io",
+    "toolbox-data.anchore.io",
+    "slsa.dev",
+    "www.makeareadme.com",
+
+    "sts.amazonaws.com",
+    "s3.amazonaws.com",
+    "kms.eu-central-1.amazonaws.com"
+  ]
+}
