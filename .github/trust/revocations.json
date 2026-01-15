@@ -1,5 +1,6 @@
+
 {
   "kids": [
-    "AWS:arn:aws:kms:eu-west-1:000000000000:key/00000000-0000-0000-0000-000000000000"
+    "AWS:arn:aws:kms:eu-central-1:359598898242:key/cda0bd51-62c7-4b8e-bece-bd740ffc024c"
   ]
 }
