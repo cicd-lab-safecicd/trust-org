@@ -1,1 +1,4 @@
-{ "kids": [] }
+{
+  "kids": ["AWS:FAKE-KID-123"]
+}
+
